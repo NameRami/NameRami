@@ -101,7 +101,7 @@ A hands-on Infrastructure-as-Code project defining **Azure resources, virtual ne
 
 ## 🛠️ My tech stack
 
-**Core technologies I use for development, automation, and infrastructure:**
+From professional projects and university coursework to personal builds and technical exploration, these are the technologies and tools in my toolkit.
 
 <details open>
 <summary><b>💻 Languages & software foundations</b></summary>
@@ -112,9 +112,12 @@ A hands-on Infrastructure-as-Code project defining **Azure resources, virtual ne
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="PL/SQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Zsh-1A2C34?style=flat-square&logoColor=white" alt="Zsh" />
 </p>
 </details>
 
@@ -122,15 +125,23 @@ A hands-on Infrastructure-as-Code project defining **Azure resources, virtual ne
 <summary><b>🌐 Frontend, backend & mobile</b></summary>
 <br />
 <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-333333?style=flat-square&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
 </p>
@@ -142,13 +153,18 @@ A hands-on Infrastructure-as-Code project defining **Azure resources, virtual ne
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo ERP" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0F766E?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Database" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Odoo%20ERP-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo ERP" />
+  <img src="https://img.shields.io/badge/Divalto%20ERP-4B5563?style=flat-square&logoColor=white" alt="Divalto ERP" />
+  <img src="https://img.shields.io/badge/XML--RPC-0F766E?style=flat-square&logoColor=white" alt="XML-RPC" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0F766E?style=flat-square&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/WebSockets-2563EB?style=flat-square&logoColor=white" alt="WebSockets" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Data%20Reconciliation-0F766E?style=flat-square&logoColor=white" alt="Data Reconciliation" />
 </p>
 </details>
 
@@ -156,32 +172,69 @@ A hands-on Infrastructure-as-Code project defining **Azure resources, virtual ne
 <summary><b>☁️ Cloud, infrastructure & CI/CD</b></summary>
 <br />
 <p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 </details>
 
-<details>
-<summary><b>🧠 AI, extra frameworks & developer tools — extended toolbox</b></summary>
+<details open>
+<summary><b>🤖 AI, data science & automation</b></summary>
 <br />
-
-- **AI & automation:** LLM applications, AI agents, LangGraph, Ollama, LM Studio, OpenWebUI, n8n, Python scripting.
-- **Additional web & app development:** Blazor, Entity Framework Core, Prisma, Socket.IO, HTML5, CSS3, Sass, Tailwind CSS.
-- **Systems & data:** PL/SQL, XML-RPC, WebSockets, Bash, Zsh, Arch Linux, Azure DevOps.
-- **Self-hosting & productivity tooling:** Nextcloud, Nginx Proxy Manager, Uptime Kuma, Figma, LaTeX.
-- **Engineering practices:** UML, API design, software architecture, technical documentation, networking fundamentals.
-
+<p>
+  <img src="https://img.shields.io/badge/LLMs%20%26%20Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs &amp; Generative AI" />
+  <img src="https://img.shields.io/badge/AI%20Agents-412991?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/LM%20Studio-374151?style=flat-square&logoColor=white" alt="LM Studio" />
+  <img src="https://img.shields.io/badge/OpenWebUI-111827?style=flat-square&logoColor=white" alt="OpenWebUI" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Python%20Automation-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Automation" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/YOLOv8-111827?style=flat-square&logoColor=white" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/Grad--CAM-374151?style=flat-square&logoColor=white" alt="Grad-CAM" />
+</p>
 </details>
+
+<details open>
+<summary><b>🛠️ Developer tools, networking & self-hosting</b></summary>
+<br />
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/UML-64748B?style=flat-square&logoColor=white" alt="UML" />
+  <img src="https://img.shields.io/badge/LAN%20%2F%20Wi--Fi-2563EB?style=flat-square&logoColor=white" alt="LAN / Wi-Fi" />
+  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-334155?style=flat-square&logoColor=white" alt="Routing &amp; Switching" />
+  <img src="https://img.shields.io/badge/IP%20Cameras%20%2F%20CCTV-334155?style=flat-square&logoColor=white" alt="IP Cameras / CCTV" />
+  <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white" alt="Nextcloud" />
+  <img src="https://img.shields.io/badge/Nginx%20Proxy%20Manager-009639?style=flat-square&logoColor=white" alt="Nginx Proxy Manager" />
+  <img src="https://img.shields.io/badge/Uptime%20Kuma-5CDD8B?style=flat-square&logoColor=black" alt="Uptime Kuma" />
+  <img src="https://img.shields.io/badge/AdGuard-68BC71?style=flat-square&logo=adguard&logoColor=white" alt="AdGuard" />
+  <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=flat-square&logo=jellyfin&logoColor=white" alt="Jellyfin" />
+  <img src="https://img.shields.io/badge/Stirling%20PDF-475569?style=flat-square&logoColor=white" alt="Stirling PDF" />
+  <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-64748B?style=flat-square&logoColor=white" alt="Agile / Scrum" />
+  <img src="https://img.shields.io/badge/System%20Design-475569?style=flat-square&logoColor=white" alt="System Design" />
+  <img src="https://img.shields.io/badge/Microservices-475569?style=flat-square&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Technical%20Documentation-475569?style=flat-square&logoColor=white" alt="Technical Documentation" />
+</p>
+</details>
+
+<sub>My experience varies by technology — this list includes professional experience, coursework, personal projects, and hands-on exploration.</sub>
 
 ---
 
