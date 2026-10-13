@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:0F766E,100:2563EB&height=210&section=header&text=RAMI%20TANAZEFTI&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20Automation%20%7C%20Cloud%20%26%20DevOps&descAlignY=60&descSize=16&descColor=E2E8F0&animation=fadeIn" alt="Rami Tanazefti — Software Engineering, Automation, Cloud and DevOps" width="100%" />
+  <img src="./banner.png" alt="Rami Tanazefti — Software Engineering, Automation, Cloud and DevOps" width="100%" />
 
   <a href="https://github.com/NameRami">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2900&pause=1100&color=2DD4BF&center=true&vCenter=true&width=720&lines=I+build+software+that+solves+real+problems.;Full-Stack+%7C+Python+Automation+%7C+Odoo+ERP;Angular+%7C+Node.js+%7C+Spring+Boot+%7C+.NET;Azure+%7C+Terraform+%7C+Docker+%7C+CI%2FCD;From+an+idea+to+a+working+solution." alt="Animated introduction to Rami's engineering focus" />
@@ -273,6 +273,6 @@ I'm interested in collaborating on **software engineering, full-stack, automatio
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,55:0F766E,100:0B1220&height=110&section=footer" alt="Decorative footer wave" width="100%" />
+<img src="./footer.png" alt="Decorative footer wave" width="100%" />
 
 </div>
