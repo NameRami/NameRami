@@ -11,35 +11,13 @@
 
   <img src="https://img.shields.io/badge/Engineering-ISITCOM%20Sousse-0F766E?style=flat-square" alt="ISITCOM Sousse" />
   <img src="https://img.shields.io/badge/Location-Tunisia-2563EB?style=flat-square" alt="Based in Tunisia" />
+  <a href="https://github.com/NameRami?tab=repositories"><img src="https://stats.pphat.top/badges?username=NameRami&amp;name=total-stars&amp;theme=ocean&amp;size=small&amp;realtime=true" alt="Total GitHub stars earned across public repositories" /></a>
   <img src="https://img.shields.io/badge/Open%20to-PFE%20Internship%202027-16A34A?style=flat-square" alt="Open to a 2027 PFE internship" />
 
   <br /><br />
 
   <a href="mailto:ramitanazefti@gmail.com"><img src="https://img.shields.io/badge/Let's%20connect-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rami" /></a>
   <a href="https://github.com/NameRami?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" /></a>
-
-</div>
-
----
-
-## ⭐ Stars Spotlight
-
-<div align="center">
-
-  <strong>Open source, real projects, and a little community love.</strong>
-
-  <br />
-
-  <a href="https://github.com/NameRami?tab=repositories">
-    <img
-      src="https://github-stats-extended.vercel.app/api?username=NameRami&hide=commits,prs,issues,contribs&hide_rank=true&show_icons=true&custom_title=Total%20Stars%20Earned&number_format=long&card_width=420&border_color=2DD4BF&bg_color=45,0D1117,0F172A&title_color=2DD4BF&text_color=F8FAFC&icon_color=FBBF24"
-      alt="Total stars earned across NameRami's public GitHub repositories"
-      width="440"
-    />
-  </a>
-
-  <br />
-  <sub>⭐ Stars received across my public GitHub repositories · refreshed periodically</sub>
 
 </div>
 
