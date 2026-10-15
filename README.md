@@ -1,132 +1,79 @@
-<!--
-  GitHub Profile README — Rami Tanazefti
-  Replace README.md in the public NameRami/NameRami profile repository.
-  Uses existing ./banner.png and ./footer.png; no additional assets required.
--->
 
 <div align="center">
 
   <img src="./banner.png" alt="Rami Tanazefti — Software Engineering, Automation, Cloud and DevOps" width="100%" />
-
-  <br />
 
   <a href="https://github.com/NameRami">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2900&pause=1100&color=2DD4BF&center=true&vCenter=true&width=720&lines=I+build+software+that+solves+real+problems.;Full-Stack+%7C+Python+Automation+%7C+Odoo+ERP;Angular+%7C+Node.js+%7C+Spring+Boot+%7C+.NET;Azure+%7C+Terraform+%7C+Docker+%7C+CI%2FCD;From+an+idea+to+a+working+solution." alt="Animated introduction to Rami's engineering focus" />
   </a>
 
   <br />
-  <sub><b>SOFTWARE ENGINEERING</b> &nbsp;·&nbsp; AUTOMATION &nbsp;·&nbsp; CLOUD &amp; DEVOPS</sub>
-  <br /><br />
 
   <img src="https://img.shields.io/badge/Engineering-ISITCOM%20Sousse-0F766E?style=flat-square" alt="ISITCOM Sousse" />
   <img src="https://img.shields.io/badge/Location-Tunisia-2563EB?style=flat-square" alt="Based in Tunisia" />
-  <img src="https://img.shields.io/badge/Open%20to-PFE%20Internship%202027-16A34A?style=flat-square" alt="Open to a 2027 PFE internship" />
   <a href="https://github.com/NameRami?tab=repositories"><img src="https://stats.pphat.top/badges?username=NameRami&amp;name=total-stars&amp;theme=ocean&amp;size=small&amp;realtime=true" alt="Total GitHub stars earned across public repositories" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-PFE%20Internship%202027-16A34A?style=flat-square" alt="Open to a 2027 PFE internship" />
 
   <br /><br />
 
-  <a href="mailto:ramitanazefti@gmail.com"><img src="https://img.shields.io/badge/Let's%20connect-Email%20me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rami" /></a>
+  <a href="mailto:ramitanazefti@gmail.com"><img src="https://img.shields.io/badge/Let's%20connect-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rami" /></a>
   <a href="https://github.com/NameRami?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" /></a>
-
-  <br /><br />
-
-  <a href="#about-me">About</a> &nbsp;·&nbsp;
-  <a href="#selected-work">Projects</a> &nbsp;·&nbsp;
-  <a href="#engineering-toolkit">Tech stack</a> &nbsp;·&nbsp;
-  <a href="#experience">Experience</a> &nbsp;·&nbsp;
-  <a href="#github-at-a-glance">GitHub stats</a>
 
 </div>
 
 ---
 
-## About me
-
-<table>
-<tr>
-<td width="58%" valign="top">
+## 👋 A little about me
 
 I'm **Rami**, a final-year **Teleinformatics Engineering student at ISITCOM, Sousse**, with a bachelor's degree in **Software Engineering**.
 
 I enjoy taking an idea from **problem → architecture → code → working product**. My interests meet at the intersection of **full-stack development, business process automation, data integration, and cloud infrastructure**. I especially like creating practical tools that save time, connect systems, or make complicated workflows feel simple.
-
-</td>
-<td width="42%" valign="top">
-
-**A quick snapshot**
 
 - 💼 **Industry experience:** Built Python and .NET tools integrated with **Odoo ERP** through XML-RPC, including inventory reconciliation, automated business checks, and sales analytics.
 - 🧩 **What I build:** Full-stack platforms, real-time monitoring dashboards, lightweight cross-device utilities, APIs, and infrastructure-as-code projects.
 - ☁️ **Engineering interests:** Cloud, CI/CD, DevOps, distributed systems, AI-powered applications, and reliable software architecture.
 - 🎯 **Currently seeking:** A **2027 end-of-studies (PFE) internship** in software engineering, full-stack development, automation/integration, or Cloud & DevOps.
 
-</td>
-</tr>
-</table>
-
 > **My approach:** Build for real people. Automate repetitive work. Keep systems understandable.
 
 ---
 
-## Selected work
+## 🚀 Projects worth exploring
 
-<sub>REAL PROJECTS &nbsp; / &nbsp; FROM PROBLEM TO WORKING PRODUCT</sub>
-
-### 📰 [NewsroomOS](https://github.com/NameRami/NewsroomOS) <sub>· Full-stack newsroom workspace</sub>
-
-<table>
-<tr>
-<td width="70%" valign="top">
+### 📰 [NewsroomOS](https://github.com/NameRami/NewsroomOS) · Full-stack newsroom workspace
 
 A centralized workspace for editorial teams, bringing together **news monitoring, publications, internal messaging, live TV monitoring, user management, and AI-assisted features**. It uses a separated frontend, REST API, and database architecture, with JWT-based authentication and GitHub Actions CI.
 
-**[Explore the architecture and source →](https://github.com/NameRami/NewsroomOS)**
-
-</td>
-<td width="30%" valign="top">
-
-**ENGINEERING STACK**
-
 `Angular` · `TypeScript` · `Node.js` · `Express` · `MongoDB` · `JWT` · `GitHub Actions`
 
-</td>
-</tr>
-</table>
+**[Explore the architecture and source →](https://github.com/NameRami/NewsroomOS)**
 
-### More projects, same hands-on mindset
+<br />
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/NameRami/PressRadar"><img src="https://raw.githubusercontent.com/NameRami/PressRadar/main/screenshot1.png" alt="PressRadar live news intelligence dashboard" width="100%" /></a>
-
-### 🌍 [PressRadar](https://github.com/NameRami/PressRadar)
-
-A real-time news intelligence dashboard combining multiple news sources, a 3D WebGL globe, earthquake and NASA event alerts, and a live TV wall. Built to run as a standalone HTML file.
-
-`JavaScript` · `REST APIs` · `Three.js / WebGL`
-
-**[Source code ↗](https://github.com/NameRami/PressRadar)** &nbsp;·&nbsp; **[Live demo ↗](https://namerami.github.io/PressRadar/PressRadar.html)**
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/NameRami/LiveTVTower"><img src="https://raw.githubusercontent.com/NameRami/LiveTVTower/main/screenshot1.png" alt="LiveTVTower multi-stream television wall" width="100%" /></a>
-
-### 📺 [LiveTVTower](https://github.com/NameRami/LiveTVTower)
-
-A browser-based multistream TV wall supporting up to nine simultaneous channels, layouts from 1×1 to 3×3, channel discovery, and custom stream playlists. No application installation required.
-
-`HTML` · `CSS` · `JavaScript` · `HLS`
-
-**[Source code ↗](https://github.com/NameRami/LiveTVTower)** &nbsp;·&nbsp; **[Live demo ↗](https://namerami.github.io/LiveTVTower/LiveTVTower.html)**
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NameRami/PressRadar">
+        <img src="https://raw.githubusercontent.com/NameRami/PressRadar/main/screenshot1.png" alt="PressRadar live news intelligence dashboard" width="100%" />
+      </a>
+      <h3>🌍 <a href="https://github.com/NameRami/PressRadar">PressRadar</a></h3>
+      <p>A real-time news intelligence dashboard combining multiple news sources, a 3D WebGL globe, earthquake and NASA event alerts, and a live TV wall. Built to run as a standalone HTML file.</p>
+      <p><code>JavaScript</code> <code>REST APIs</code> <code>Three.js / WebGL</code></p>
+      <a href="https://github.com/NameRami/PressRadar">Source code ↗</a> · <a href="https://namerami.github.io/PressRadar/PressRadar.html">Live demo ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NameRami/LiveTVTower">
+        <img src="https://raw.githubusercontent.com/NameRami/LiveTVTower/main/screenshot1.png" alt="LiveTVTower multi-stream television wall" width="100%" />
+      </a>
+      <h3>📺 <a href="https://github.com/NameRami/LiveTVTower">LiveTVTower</a></h3>
+      <p>A browser-based multistream TV wall supporting up to nine simultaneous channels, layouts from 1×1 to 3×3, channel discovery, and custom stream playlists. No application installation required.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>HLS</code></p>
+      <a href="https://github.com/NameRami/LiveTVTower">Source code ↗</a> · <a href="https://namerami.github.io/LiveTVTower/LiveTVTower.html">Live demo ↗</a>
+    </td>
+  </tr>
 </table>
 
-### ☁️ [Azure Infrastructure as Code](https://github.com/NameRami/terraform-ansible-project) <sub>· Cloud &amp; DevOps</sub>
+### ☁️ [Azure Infrastructure as Code](https://github.com/NameRami/terraform-ansible-project) · Cloud & DevOps
 
 A hands-on Infrastructure-as-Code project defining **Azure resources, virtual networking, security configuration, and virtual machine infrastructure** using Terraform. The repository also explores the Terraform + Ansible automation workflow.
 
@@ -134,40 +81,25 @@ A hands-on Infrastructure-as-Code project defining **Azure resources, virtual ne
 
 **[View infrastructure configuration →](https://github.com/NameRami/terraform-ansible-project)**
 
-#### ⚡ Small tools, useful solutions
+### ⚡ Small tools, useful solutions
 
 | Project | What it does | Main technologies |
-| :--- | :--- | :--- |
+|:---|:---|:---|
 | 📋 **[ClipSync](https://github.com/NameRami/ClipSync)** | Syncs clipboard content and a shared notepad across devices on the same Wi-Fi. | Python · WebSockets · Browser UI |
 | 📦 **[QuickShare](https://github.com/NameRami/QuickShare)** | Shares files locally through a browser, with drag-and-drop uploads and QR codes. | Python · HTTP · Local networking |
 | 🎯 **[SlideRemote](https://github.com/NameRami/SlideRemote)** | Turns any phone browser into a wireless presentation remote for a Windows PC. | Python · WebSockets · Automation |
 
-<p align="right"><a href="https://github.com/NameRami?tab=repositories"><b>Browse all repositories →</b></a></p>
+<div align="right">
+  <a href="https://github.com/NameRami?tab=repositories"><b>Browse all repositories →</b></a>
+</div>
 
 ---
 
-## Engineering toolkit
+## 🛠️ My tech stack
 
 From professional projects and university coursework to personal builds and technical exploration, these are the technologies and tools in my toolkit.
 
-**Primary tools & frameworks**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Odoo%20ERP-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo ERP" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
-<sub>Explore the full stack below. All six original categories and technologies are retained.</sub>
-
-<details>
+<details open>
 <summary><b>💻 Languages & software foundations</b></summary>
 <br />
 <p>
@@ -185,7 +117,7 @@ From professional projects and university coursework to personal builds and tech
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>🌐 Frontend, backend & mobile</b></summary>
 <br />
 <p>
@@ -211,7 +143,7 @@ From professional projects and university coursework to personal builds and tech
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>🗄️ Data, APIs & enterprise integration</b></summary>
 <br />
 <p>
@@ -232,7 +164,7 @@ From professional projects and university coursework to personal builds and tech
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>☁️ Cloud, infrastructure & CI/CD</b></summary>
 <br />
 <p>
@@ -254,7 +186,7 @@ From professional projects and university coursework to personal builds and tech
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>🤖 AI, data science & automation</b></summary>
 <br />
 <p>
@@ -275,7 +207,7 @@ From professional projects and university coursework to personal builds and tech
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>🛠️ Developer tools, networking & self-hosting</b></summary>
 <br />
 <p>
@@ -302,41 +234,34 @@ From professional projects and university coursework to personal builds and tech
 
 ---
 
-## Experience
+## 💼 Experience beyond GitHub
 
-<table>
-<tr>
-<td width="19%" valign="top"><b>Jun–Aug 2026</b><br/><sub>MKG Concept</sub></td>
-<td valign="top">
-
-**Software Engineering Intern**
+**Software Engineering Intern · MKG Concept** <sub>(Jun–Aug 2026)</sub>
 
 - Built **Python and .NET** business tools connected to **Odoo ERP** through XML-RPC.
 - Designed an **inventory reconciliation workflow** comparing live ERP records with local product data to flag discrepancies and stock availability issues.
 - Developed **sales analytics and KPI dashboards** covering customer activity, loyalty, and monthly trends; wrote technical and user documentation.
 
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Earlier roles</b></td>
-<td valign="top">
-
 **Earlier experience:** IT support, networks and IP surveillance at **InfoSelect**; 3D modeling and simulation for AI-system evaluation at **CRMN**; custom automation bots for freelance clients; ERP development exposure at **SIMSOFT Technologies**.
-
-</td>
-</tr>
-</table>
 
 ---
 
-## GitHub at a glance
+## 📈 GitHub at a glance
+
 
 <div align="center">
-
-  <img src="https://github-stats-extended.vercel.app/api?username=NameRami&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=38BDF8&text_color=C9D1D9" alt="Rami's GitHub statistics" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NameRami&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9&langs_count=8" alt="Most used programming languages" height="165" />
-
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=NameRami&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=38BDF8&text_color=C9D1D9"
+    alt="Rami's GitHub statistics"
+    height="165"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=NameRami&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9&langs_count=8"
+    alt="Most used programming languages"
+    height="165"
+  />
 </div>
+
 
 <sub>These cards reflect public GitHub activity, not the complete set of technologies I know or have used professionally.</sub>
 
