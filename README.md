@@ -1,8 +1,3 @@
-<!--
-  GitHub Profile README — Rami Tanazefti
-  To display this on your GitHub profile, create a public repository named
-  NameRami (identical to your GitHub username) and place this README.md at its root.
--->
 
 <div align="center">
 
@@ -22,6 +17,29 @@
 
   <a href="mailto:ramitanazefti@gmail.com"><img src="https://img.shields.io/badge/Let's%20connect-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rami" /></a>
   <a href="https://github.com/NameRami?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" /></a>
+
+</div>
+
+---
+
+## ⭐ Stars Spotlight
+
+<div align="center">
+
+  <strong>Open source, real projects, and a little community love.</strong>
+
+  <br />
+
+  <a href="https://github.com/NameRami?tab=repositories">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=NameRami&hide=commits,prs,issues,contribs&hide_rank=true&show_icons=true&custom_title=Total%20Stars%20Earned&number_format=long&card_width=420&border_color=2DD4BF&bg_color=45,0D1117,0F172A&title_color=2DD4BF&text_color=F8FAFC&icon_color=FBBF24"
+      alt="Total stars earned across NameRami's public GitHub repositories"
+      width="440"
+    />
+  </a>
+
+  <br />
+  <sub>⭐ Stars received across my public GitHub repositories · refreshed periodically</sub>
 
 </div>
 
