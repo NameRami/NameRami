@@ -249,6 +249,7 @@ From professional projects and university coursework to personal builds and tech
 ## 📈 GitHub at a glance
 
 
+
 <div align="center">
   <img
     src="https://github-stats-extended.vercel.app/api?username=NameRami&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=38BDF8&text_color=C9D1D9"
@@ -262,8 +263,7 @@ From professional projects and university coursework to personal builds and tech
   />
 </div>
 
-
-<sub>These cards reflect public GitHub activity, not the complete set of technologies I know or have used professionally.</sub>
+<sub>These cards reflect public repositories only, not everything I have built or used professionally.</sub>
 
 ---
 
