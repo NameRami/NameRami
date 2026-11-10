@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="147" height="20" viewBox="0 0 147 20" role="img" aria-label="Stars earned: …">
+  <title>Stars earned: …</title>
+  <clipPath id="rounded"><rect width="147" height="20" rx="4"/></clipPath>
+  <g clip-path="url(#rounded)">
+    <rect width="112" height="20" fill="#111827"/>
+    <rect x="112" width="35" height="20" fill="#0F766E"/>
+  </g>
+  <path d="M12 3.2l1.6 3.4 3.8.5-2.7 2.7.7 3.8-3.4-1.8-3.4 1.8.7-3.8-2.7-2.7 3.8-.5z" fill="#FBBF24"/>
+  <g font-family="DejaVu Sans,Verdana,Arial,sans-serif" font-size="10.5" fill="#FFFFFF">
+    <text x="22" y="13.7">Stars earned</text>
+    <text x="129.5" y="13.7" text-anchor="middle" font-weight="bold">…</text>
+  </g>
+</svg>
