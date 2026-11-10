@@ -252,7 +252,7 @@ From professional projects and university coursework to personal builds and tech
 
 <div align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=NameRami&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=38BDF8&text_color=C9D1D9&hide=stars"
+    src="https://github-stats-extended.vercel.app/api?username=NameRami&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=38BDF8&text_color=C9D1D9&hide=stars&hide_rank=true"
     alt="Rami's GitHub statistics"
     height="165"
   />
