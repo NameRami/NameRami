@@ -11,7 +11,7 @@
 
   <img src="https://img.shields.io/badge/Engineering-ISITCOM%20Sousse-0F766E?style=flat-square" alt="ISITCOM Sousse" />
   <img src="https://img.shields.io/badge/Location-Tunisia-2563EB?style=flat-square" alt="Based in Tunisia" />
-  <a href="https://github.com/NameRami?tab=repositories"><img src="./assets/stars-earned.svg" alt="Total GitHub stars earned across public repositories" /></a>
+  <a href="https://github.com/NameRami?tab=repositories"><img src="https://ghstats.dev/api/mini?username=NameRami&amp;metric=stars&amp;label=Stars%20Earned&amp;color=0F766E&amp;style=flat-square" alt="Total GitHub stars earned across public repositories" /></a>
   <img src="https://img.shields.io/badge/Open%20to-PFE%20Internship%202027-16A34A?style=flat-square" alt="Open to a 2027 PFE internship" />
 
   <br /><br />
@@ -264,7 +264,7 @@ From professional projects and university coursework to personal builds and tech
 </div>
 
 <div align="center">
-  <a href="https://github.com/NameRami?tab=repositories"><img src="./assets/stars-earned.svg" alt="Total GitHub stars earned across public repositories" /></a>
+  <a href="https://github.com/NameRami?tab=repositories"><img src="https://ghstats.dev/api/mini?username=NameRami&amp;metric=stars&amp;label=Stars%20Earned&amp;color=0F766E&amp;style=flat-square" alt="Total GitHub stars earned across public repositories" /></a>
 </div>
 
 <sub>These cards reflect public repositories only, not everything I have built or used professionally.</sub>
